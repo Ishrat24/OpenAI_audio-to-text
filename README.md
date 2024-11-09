@@ -38,6 +38,20 @@ This project is a Flask web application that allows users to upload an audio fil
 
 ## Dependencies (to be installed via pip):
 
-- **Flask**: pip install Flask
+    pip install Flask
 
-- **openai**: pip install openai
+    pip install openai
+
+`API_KEY`
+
+## API Reference
+
+
+```http
+https://platform.openai.com/docs/overview
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `API_KEY` | `string` | **Required**. Your API key |
+
