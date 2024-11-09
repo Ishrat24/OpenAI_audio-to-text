@@ -14,7 +14,8 @@ This project is a Flask web application that allows users to upload an audio fil
 
 ## Tools and Technologies Used
 
-    Backend:
+### 🔧 Backend
+  
 - **Flask**: A lightweight web framework for Python, used to build the web server and handle HTTP requests.
 
 - **OpenAI API**: Used to interact with the Whisper model for audio transcription and the GPT-4 model for text translation.
@@ -23,7 +24,7 @@ This project is a Flask web application that allows users to upload an audio fil
 
 - **os**: Used to interact with the system’s environment (for accessing the OpenAI API key and file paths).
 
-    Frontend:
+### 🌐 Frontend
 
 - **HTML/CSS**: Basic web technologies for building the structure and styling of the web page.
 
