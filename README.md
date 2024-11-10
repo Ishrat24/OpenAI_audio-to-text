@@ -57,6 +57,6 @@ https://platform.openai.com/docs/overview
 
 
 ## Presentation
-[![Alt text](https://img.youtube.com/vi/IdEWjk29MEY/3.jpg)](https://youtu.be/IdEWjk29MEY)
+[![Alt text](https://img.youtube.com/vi/IdEWjk29MEY/0.jpg)](https://youtu.be/IdEWjk29MEY)
 
 
