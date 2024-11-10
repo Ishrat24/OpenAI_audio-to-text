@@ -55,3 +55,8 @@ https://platform.openai.com/docs/overview
 | :-------- | :------- | :------------------------- |
 | `API_KEY` | `string` | **Required**. Your API key |
 
+
+## Presentation
+[![Alt text](https://img.youtube.com/vi/IdEWjk29MEY/3.jpg)](https://youtu.be/IdEWjk29MEY)
+
+
